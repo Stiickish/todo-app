@@ -4,3 +4,4 @@ It's minimalistic and have simple functions like add a new todo and delete a tod
 I'm using Streamlit, which is a Python library, to display the app as a web app. 
 To use the app, download or clone the project. Install the requirements with pip install in your terminal. 
 To run the application type in : streamlit run web.py. The app will then open the application as a localhost app in your browser. 
+Link to a live version: https://stiickish-todo-app-web-web-ncty3p.streamlit.app/
